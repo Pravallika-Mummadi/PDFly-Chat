@@ -27,4 +27,5 @@ index.
 search.
 12. Ranked Results: The results of the semantic search are ranked.
 13. LLM Generative AI: This is the AI model that generates responses.
-14. User (feedback loop): The re
+14. User (feedback loop): The results or information provided by the LLM
+are delivered back to the user.
